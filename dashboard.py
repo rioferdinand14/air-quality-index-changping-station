@@ -84,7 +84,7 @@ df = pd.read_csv("main_data.csv", delimiter=",")
 # Konfigurasi tampilan dashboard
 st.title("AIR QUALITY INDEX DASHBOARD")
 st.header("Changping Station")
-st.markdown("Dashboard ini menampilkan hasil analisis data yang telah dilakukan. "
+st.markdown("Dashboard ini menampilkan hasil analisis data terkait kondisi meteorologi dan polutan di stasiun Changping. "
             "Silakan gunakan panel samping untuk menampilkan data sesuai kebutuhan.")
 
 
