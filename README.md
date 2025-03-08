@@ -8,10 +8,16 @@ Repository ini menyajikan analisis indeks kualitas udara di Changping Station. P
 mkdir proyek_analisis_data
 cd proyek_analisis_data
 python -m venv venv
+
 # Untuk Windows:
 venv\Scripts\activate
+
 # Untuk macOS/Linux:
-# source venv/bin/activate
+source venv/bin/activate
+
+# Install semua requirements
 pip install -r requirements.txt
 
+```
+## Run Streamlit App
 streamlit run dashboard.py
