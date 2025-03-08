@@ -1,6 +1,5 @@
-# Air Quality Index Changping Station ✨
+# Air Quality Index Changping Station 
 
-Repository ini menyajikan analisis indeks kualitas udara di Changping Station. Proyek ini menggunakan data kualitas udara untuk menampilkan dashboard interaktif berbasis Streamlit, sehingga Anda dapat memantau kondisi udara secara real-time maupun analisis historis.
 
 ## Setup Environment - Shell/Terminal (pip)
 
